@@ -30,3 +30,9 @@ h1 {
 .menu .card {
     background-color: transparent;
 }
+
+@font-face {
+    font-family: ".menu";
+    src: url(../fonts/BADUY.otf);
+}
+
