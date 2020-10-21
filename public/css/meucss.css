@@ -3,6 +3,11 @@
     src: url(../fonts/riesling.ttf);
 }
 
+@font-face {
+    font-family: "rose";
+    src: url(../fonts/Bellerose.ttf);
+}
+
 header {
     background-image: url(../img/ouro-rosa.jpg);
 }
@@ -10,6 +15,7 @@ header {
 .menu {
     background-image: url(../img/-desfoque1.jpg);
     background-size: 100%;
+    font-family: "rose";
 }
 
 footer {
