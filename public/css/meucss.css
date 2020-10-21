@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "plin";
+    src: url(../fonts/riesling.ttf);
+}
+
+header {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+.menu {
+    background-image: url(../img/-desfoque1.jpg);
+    background-size: 100%;
+}
+
+footer {
+    background-image: url(../img/ouro-rosa-textura-de-glitter-particulas-douradas_160081-288.webp);
+}
+
+h1 {
+    font-family: "plin";
+    font-size: 85px;
+}
+
+.menu .card {
+    background-color: transparent;
+}
