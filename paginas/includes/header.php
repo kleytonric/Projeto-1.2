@@ -73,7 +73,7 @@
                         <a class="nav-link btn-outline-secondary" href="?pg=inicial">Home <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  btn-outline-secondary" href="#">Sobre</a>
+                        <a class="nav-link  btn-outline-secondary" href="?pg=sobre">Sobre</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#"></a>
