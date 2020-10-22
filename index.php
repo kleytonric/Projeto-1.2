@@ -9,7 +9,7 @@ if ($paginas) {
         case 'inicial':
             include_once "paginas/inicial.php";
             break;
-            case 'horoscopo':
+            case 'dailyhoroscope':
                 include_once "paginas/dailyhoroscope.php";
                 break;
         default:
