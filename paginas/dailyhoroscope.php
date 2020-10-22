@@ -1,8 +1,3 @@
-
-<head>
-  <link rel="stylesheet" href="public/css/horoscopocss.css">
-</head>
-
 <div class="menu">
     <br>
     <br>
