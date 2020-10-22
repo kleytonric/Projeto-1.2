@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,9 +10,31 @@
 
     <!-- icomoon -->
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
-    
+
     <!-- meu css -->
-    <link rel="stylesheet" href="public/css/meucss.css">
+
+
+    <?php
+
+    $pagina = isset($_GET["pg"]);
+    if ($pagina) {
+        switch ($pagina) {
+            case 'dailyhoroscope':
+                echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
+                break;
+           
+                case 'dailyhoroscope':
+                echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
+                break;
+
+            default:
+                # code...
+                break;
+        }
+    } else {
+        echo '<link rel="stylesheet" href="public/css/meucss.css">';
+    }
+    ?>
 
     <title>Gossip Girl's</title>
 </head>
