@@ -82,7 +82,7 @@
 
                     <h5 class="card-title"  style="color:#EBD1D8;">As notícias mais acessadas no momento:</h5>
                     <p class="card-text"  style="color:#EBD1D8;">Para mais detalhes vá para aba de Notícias!!</p>
-                    <p class="card-text"  style="color:#EBD1D8;"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+                    <p class="card-text"  style="color:#EBD1D8;"><small class="text-muted">Atualizados 1 minutos atrás</small></p>
                 </div>
             </div>
         </div>
@@ -114,7 +114,8 @@
                         <a href="#" style="color: rgb(255, 0, 179);">Wallpaper</a>
                     </h5>
                     <p class="card-text lead" style="color:#D8A9DB;">
-                        aesthetic, tumblr, vintages/retrô
+                        aesthetic, tumblr,
+                        <br> vintages/retrô
                     </p>
                 </div>
             </div>
