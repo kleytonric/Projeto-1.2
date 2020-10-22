@@ -18,17 +18,17 @@
 
     $pagina = isset($_GET["pg"]);
     if ($pagina) {
-        switch ($pagina) {
+        switch ($_GET["pg"]) {
             case 'dailyhoroscope':
                 echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
                 break;
 
-                case 'inicial':
-                    echo '<link rel="stylesheet" href="public/css/meucss.css">';
-                    break;
-           
                 case 'templantes':
                 echo '<link rel="stylesheet" href="public/css/templantes.css">';
+                break;
+
+                case 'inicial':
+                echo '<link rel="stylesheet" href="public/css/meucss.css">';
                 break;
 
             default:
@@ -70,7 +70,7 @@
                         </div>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link btn-outline-secondary" href="">Home <span class="sr-only">(página atual)</span></a>
+                        <a class="nav-link btn-outline-secondary" href="?pg=inicial">Home <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  btn-outline-secondary" href="#">Sobre</a>
