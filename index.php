@@ -9,9 +9,12 @@ if ($paginas) {
         case 'inicial':
             include_once "paginas/inicial.php";
             break;
-            case 'dailyhoroscope':
+             case'dailyhoroscope':
                 include_once "paginas/dailyhoroscope.php";
                 break;
+                case'templantes':
+                    include_once "paginas/templantes.php";
+                    break;
         default:
             # code...
             break;

@@ -23,8 +23,8 @@
                 echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
                 break;
            
-                case 'dailyhoroscope':
-                echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
+                case 'templantes':
+                echo '<link rel="stylesheet" href="public/css/templantescss.css">';
                 break;
 
             default:
