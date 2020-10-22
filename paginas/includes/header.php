@@ -66,7 +66,7 @@
                         </div>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link btn-outline-secondary" href="#">Home <span class="sr-only">(página atual)</span></a>
+                        <a class="nav-link btn-outline-secondary" href="?pg=inicial">Home <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  btn-outline-secondary" href="#">Sobre</a>
