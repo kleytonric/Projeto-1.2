@@ -16,7 +16,7 @@
     <title>Gossip Girl's</title>
 </head>
 
-<body style="background-color: black;">
+<body>
 
     <header class="text-center" style="color: antiquewhite;">
         <br>
