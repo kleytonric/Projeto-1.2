@@ -101,7 +101,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Horóscopo</a>
+                        <a href="paginas/dailyhoroscopo.php" style="color: rgb(255, 0, 179);">Horóscopo</a>
                     </h5>
                     <p class="card-text lead" style="color:#f8afc5;">
                         Atualizações diarias sobre seu signo
