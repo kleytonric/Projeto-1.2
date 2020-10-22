@@ -18,10 +18,6 @@ header {
     font-family: "rose";
 }
 
-footer {
-    background-image: url(../img/ouro-rosa-textura-de-glitter-particulas-douradas_160081-288.webp);
-}
-
 h1 {
     font-family: "plin";
     font-size: 85px;
@@ -35,4 +31,3 @@ h1 {
     font-family: ".menu";
     src: url(../fonts/BADUY.otf);
 }
-
