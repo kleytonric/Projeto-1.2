@@ -28,7 +28,7 @@
                     break;
            
                 case 'templantes':
-                echo '<link rel="stylesheet" href="public/css/templantescss.css">';
+                echo '<link rel="stylesheet" href="public/css/templantes.css">';
                 break;
 
             default:
