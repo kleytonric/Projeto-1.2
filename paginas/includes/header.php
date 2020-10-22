@@ -22,6 +22,10 @@
             case 'dailyhoroscope':
                 echo '<link rel="stylesheet" href="public/css/horoscopocss.css">';
                 break;
+
+                case 'inicial':
+                    echo '<link rel="stylesheet" href="public/css/meucss.css">';
+                    break;
            
                 case 'templantes':
                 echo '<link rel="stylesheet" href="public/css/templantescss.css">';
