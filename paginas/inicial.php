@@ -91,7 +91,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Templates</a>
+                        <a href="?pg=templantes" style="color: rgb(255, 0, 179);">Templates</a>
                     </h5>
                     <p class="card-text lead" style="color:#DB9693;">
                         Os melhores para você
